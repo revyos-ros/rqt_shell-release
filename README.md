@@ -1,3 +1,26 @@
+## rqt_shell (humble) - 1.0.2-4
+
+The packages in the `rqt_shell` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble rqt_shell` on `Mon, 29 Apr 2024 17:08:09 -0000`
+
+The `rqt_shell` package was released.
+
+Version of package(s) in repository `rqt_shell`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_shell.git
+- release repository: https://github.com/revyos-ros/rqt_shell-release.git
+- rosdistro version: `1.0.2-3`
+- old version: `1.0.2-3`
+- new version: `1.0.2-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_shell (rolling) - 1.3.0-1
 
 The packages in the `rqt_shell` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rqt_shell --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 14:18:49 -0000`
