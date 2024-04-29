@@ -2,30 +2,6 @@
 Changelog for package rqt_shell
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.3.0 (2024-04-26)
-------------------
-
-1.2.2 (2024-04-16)
-------------------
-* Change maintainer to clalancette. (`#21 <https://github.com/ros-visualization/rqt_shell/issues/21>`_)
-* Contributors: Chris Lalancette, Michael Jeronimo
-
-1.2.1 (2024-02-07)
-------------------
-* Add in pytest test dependency. (`#19 <https://github.com/ros-visualization/rqt_shell/issues/19>`_)
-* Contributors: Chris Lalancette
-
-1.2.0 (2023-04-28)
-------------------
-
-1.1.1 (2023-02-14)
-------------------
-* [rolling] Update maintainers - 2022-11-07 (`#17 <https://github.com/ros-visualization/rqt_shell/issues/17>`_)
-* Contributors: Audrow Nash, Jacob Perron
-
-1.1.0 (2022-05-10)
-------------------
-
 1.0.2 (2021-08-31)
 ------------------
 * Fix modern setuptools warning about dashes instead of underscores (`#14 <https://github.com/ros-visualization/rqt_shell/issues/14>`_)

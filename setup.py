@@ -4,7 +4,7 @@ package_name = 'rqt_shell'
 
 setup(
     name=package_name,
-    version='1.3.0',
+    version='1.0.2',
     packages=[package_name],
     package_dir={'': 'src'},
     data_files=[
@@ -18,8 +18,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     author='Dorian Scholz',
-    maintainer='Michael Jeronimo',
-    maintainer_email='michael.jeronimo@openrobotics.org',
+    maintainer='Dirk Thomas, Dorian Scholz, Kunal Tyagi',
+    maintainer_email='dthomas@osrfoundation.org',
     keywords=['ROS'],
     classifiers=[
         'Intended Audience :: Developers',
@@ -31,7 +31,6 @@ setup(
         'rqt_shell is a Python GUI plugin providing an interactive shell.'
     ),
     license='BSD',
-    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'rqt_shell = ' + package_name + '.main:main',
