@@ -1,0 +1,275 @@
+ros-humble-rqt-shell (1.0.2-4bullseye) bullseye; urgency=high
+
+  * Fix modern setuptools warning about dashes instead of underscores (#14 <https://github.com/ros-visualization/rqt_shell/issues/14>)
+  * Contributors: Chris Lalancette
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 30 Aug 2021 16:00:00 -0000
+
+ros-humble-rqt-shell (1.0.1-4bullseye) bullseye; urgency=high
+
+  * Changed the build type to ament_python and fixed package to run with ros2 run (#11 <https://github.com/ros-visualization/rqt_shell/issues/11>)
+  * Contributors: Alejandro Hernández Cordero
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 26 Apr 2021 16:00:00 -0000
+
+ros-humble-rqt-shell (1.0.0-4bullseye) bullseye; urgency=high
+
+  * Fixing executable (#8 <https://github.com/ros-visualization/rqt_shell/issues/8>)
+  * Initial port, SimpleShell works (#7 <https://github.com/ros-visualization/rqt_shell/issues/7>)
+  * Contributors: Mike Lautman, brawner
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 10 Dec 2018 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.9-4bullseye) bullseye; urgency=high
+
+  * Fixed syntax error when using a startup script with spyder shell
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 06 Sep 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.8-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 27 Apr 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.7-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 01 Mar 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.6-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 26 Feb 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.5-4bullseye) bullseye; urgency=high
+
+  * add command line option --init-script (#296 <https://github.com/ros-visualization/rqt_common_plugins/issues/296>)
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 02 Feb 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.4-4bullseye) bullseye; urgency=high
+
+  * use Python 3 compatible syntax (#421 <https://github.com/ros-visualization/rqt_common_plugins/pull/421>)
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 23 Jan 2017 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.3-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 01 Nov 2016 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.2-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 18 Sep 2016 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.1-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 15 May 2016 16:00:00 -0000
+
+ros-humble-rqt-shell (0.4.0-4bullseye) bullseye; urgency=high
+
+  * Support Qt 5 (in Kinetic and higher) as well as Qt 4 (in Jade and earlier) (#359 <https://github.com/ros-visualization/rqt_common_plugins/pull/359>)
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 26 Apr 2016 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.13-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 07 Mar 2016 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.12-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 23 Jul 2015 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.11-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 29 Apr 2015 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.10-4bullseye) bullseye; urgency=high
+
+  * update plugin scripts to use full name to avoid future naming collisions
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 30 Sep 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.9-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 17 Aug 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.8-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 14 Jul 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.7-4bullseye) bullseye; urgency=high
+
+  * export architecture_independent flag in package.xml (#254 <https://github.com/ros-visualization/rqt_common_plugins/issues/254>)
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 10 Jul 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.6-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 01 Jun 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.5-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 06 May 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.4-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 27 Jan 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.3-4bullseye) bullseye; urgency=high
+
+  * add groups for rqt plugins, renamed some plugins (#167 <https://github.com/ros-visualization/rqt_common_plugins/issues/167>)
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 07 Jan 2014 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.2-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 13 Oct 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.1-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 08 Oct 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.3.0-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 27 Aug 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.17-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 03 Jul 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.16-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Tue, 09 Apr 2013 05:33:00 -0000
+
+ros-humble-rqt-shell (0.2.15-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 08 Apr 2013 16:02:00 -0000
+
+ros-humble-rqt-shell (0.2.14-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 13 Mar 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.13-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 11 Mar 2013 14:14:00 -0000
+
+ros-humble-rqt-shell (0.2.12-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 11 Mar 2013 05:56:00 -0000
+
+ros-humble-rqt-shell (0.2.11-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 07 Mar 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.10-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Mon, 21 Jan 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.9-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Wed, 16 Jan 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.8-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 10 Jan 2013 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.7-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sun, 23 Dec 2012 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.6-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Sat, 22 Dec 2012 16:00:00 -0000
+
+ros-humble-rqt-shell (0.2.5-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Fri, 21 Dec 2012 11:11:00 -0000
+
+ros-humble-rqt-shell (0.2.4-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 20 Dec 2012 17:13:00 -0000
+
+ros-humble-rqt-shell (0.2.3-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 20 Dec 2012 16:24:00 -0000
+
+ros-humble-rqt-shell (0.2.2-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 20 Dec 2012 10:29:00 -0000
+
+ros-humble-rqt-shell (0.2.1-4bullseye) bullseye; urgency=high
+
+
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 20 Dec 2012 09:47:00 -0000
+
+ros-humble-rqt-shell (0.2.0-4bullseye) bullseye; urgency=high
+
+  * first release of this package into groovy
+
+ -- Dorian Scholz <scholz@sim.tu-darmstadt.de>  Thu, 20 Dec 2012 09:39:00 -0000
+
+
